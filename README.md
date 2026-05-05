@@ -2,7 +2,7 @@
 
 **Intern:** Olayemi Samson  
 **Internship:** Cybersecurity Intern @ [Prodigy InfoTech](https://prodigyinfotech.dev)  
-**Duration:** 2026  
+**Duration:** April - May 2026  
 **Environment:** Kali Linux (UTM Virtual Machine) | Python 3
 
 ---
