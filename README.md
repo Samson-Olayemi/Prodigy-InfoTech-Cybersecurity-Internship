@@ -1,4 +1,4 @@
-# 🔐 Prodigy InfoTech — Cybersecurity Internship
+# Prodigy InfoTech — Cybersecurity Internship
 
 **Intern:** Olayemi Samson  
 **Internship:** Cybersecurity Intern @ [Prodigy InfoTech](https://prodigyinfotech.dev)  
@@ -7,13 +7,13 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This repository contains all five tasks completed during my Cybersecurity Internship at Prodigy InfoTech. Each task involved building a working security tool from scratch using Python, covering core concepts in cryptography, image encryption, password security, keylogging, and network analysis.
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 Prodigy-InfoTech-Cybersecurity-Internship/
@@ -43,7 +43,7 @@ Prodigy-InfoTech-Cybersecurity-Internship/
 
 ---
 
-## 🧰 Tasks Summary
+## Tasks Summary
 
 | Task | Title | Key Concept |
 |------|-------|-------------|
@@ -55,7 +55,7 @@ Prodigy-InfoTech-Cybersecurity-Internship/
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.x
 - Kali Linux (recommended) or any Linux distro
@@ -63,13 +63,13 @@ Prodigy-InfoTech-Cybersecurity-Internship/
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 All tools in this repository were built strictly for **educational and ethical purposes** as part of a supervised cybersecurity internship. They must only be used on systems and networks you own or have explicit permission to test. Unauthorized use of these tools is illegal and unethical.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Olayemi Samson**  
 Cybersecurity Intern @ Prodigy InfoTech
